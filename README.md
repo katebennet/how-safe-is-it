@@ -12,3 +12,7 @@ https://data.sfgov.org/browse?limitTo=datasets&sortBy=relevance&utf8=%E2%9C%93&v
 **Adding directions**
 
 https://developers.google.com/maps/documentation/javascript/directions
+
+**To run it on local**
+
+python -m SimpleHTTPServer
